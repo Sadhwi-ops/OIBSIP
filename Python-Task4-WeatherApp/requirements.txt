@@ -1,0 +1,2 @@
+# No third-party packages required.
+# The app uses Python's built-in urllib and json modules.
